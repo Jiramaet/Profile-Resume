@@ -1,11 +1,11 @@
 import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/viberr.png';
-import freshBurger from '../../assets/fresh-burger.png';
-import hipsster from '../../assets/hipsster.png';
-import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
 import Com from '../../assets/Com.png'
 import Gallery from '../../assets/Gallery.png'
+//import viberr from '../../assets/viberr.png';
+//import freshBurger from '../../assets/fresh-burger.png';
+//import hipsster from '../../assets/Gallery.png';
+//import fitLift from '../../assets/fitlift.png';
 
 function Projects() {
   return (
